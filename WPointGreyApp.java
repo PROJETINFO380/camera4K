@@ -12,6 +12,7 @@ public class WPointGreyApp
   private native void disconnect();
   private native void startCapture();
   private native void stopCapture();
+  private native void calibrageCouleur();
   
   private native void destroysContext();
   
